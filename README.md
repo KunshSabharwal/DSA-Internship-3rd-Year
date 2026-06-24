@@ -4,3 +4,5 @@
 
 - For Loop Patterns
 - Add Digits (Leetcode - 258)
+- Fibonacci Sequence
+- Exponents
