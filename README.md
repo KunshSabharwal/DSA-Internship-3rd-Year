@@ -3,3 +3,4 @@
 ## Day 1
 
 - For Loop Patterns
+- Add Digits (Leetcode - 258)
