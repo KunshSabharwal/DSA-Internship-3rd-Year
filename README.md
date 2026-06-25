@@ -11,12 +11,13 @@
 
 ## Day 2 - 25th June 2026
 
-- Basic C++ Program to add two numbers
+- First C++ Program to add two numbers
 - Basic Operators in C++ to calculate an expression
 - Basic for loop types
 - Factorial of any given postive number
 - Count number of even and odd numbers in a given number
 - Sum of N natural numbers using mathematical formula
+- Print a Square Star Pattern of NXN grid
 - Happy Number (Leetcode - 202)
 - Palindrome Number (Leetcode - 9)
 - Power of Three (Leetcode - 326)
