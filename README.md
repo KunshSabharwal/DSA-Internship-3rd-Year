@@ -1,8 +1,19 @@
-# Data Structure and Algorithms (Internship) [23rd June 2026 - 31st July 2026]
+# Data Structure and Algorithms (Internship) 3rd Year [23rd June 2026 - 31st July 2026]
 
-## Day 1
+## Day 0 - 23rd June 2026
+
+## Day 1 - 24th June 2026
 
 - For Loop Patterns
 - Add Digits (Leetcode - 258)
-- Fibonacci Sequence
-- Exponents
+- Fibonacci Sequence (Leetcode - 509)
+- Exponents - Power of Two (Leetcode - 231)
+
+## Day 2 - 25th June 2026
+
+- Basic C++ Program to add two numbers
+- Happy Number (Leetcode - 202)
+- Palindrome Number (Leetcode - 9)
+- Power of Three (Leetcode - 326)
+- Excel Sheet Column Number (Leetcode - 171)
+-
