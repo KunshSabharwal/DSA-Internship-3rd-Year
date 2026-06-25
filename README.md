@@ -13,9 +13,10 @@
 
 - Basic C++ Program to add two numbers
 - Basic Operators in C++ to calculate an expression
-- Basic if-else and loops
+- Basic for loop types
 - Factorial of any given postive number
 - Count number of even and odd numbers in a given number
+- Sum of N natural numbers using mathematical formula
 - Happy Number (Leetcode - 202)
 - Palindrome Number (Leetcode - 9)
 - Power of Three (Leetcode - 326)
