@@ -26,4 +26,4 @@
 ## Day 3 - 27th June 2026
 
 - #@ Pattern printing and 1, 121, 12321, 1234321 Pattern printing
--
+- Prime Numbers upto N using Sieve of Eratosthenes
