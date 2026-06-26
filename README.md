@@ -22,3 +22,8 @@
 - Palindrome Number (Leetcode - 9)
 - Power of Three (Leetcode - 326)
 - Excel Sheet Column Number (Leetcode - 171)
+
+## Day 3 - 27th June 2026
+
+- #@ Pattern printing and 1, 121, 12321, 1234321 Pattern printing
+-
