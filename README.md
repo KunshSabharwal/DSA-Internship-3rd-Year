@@ -32,5 +32,5 @@
 - Count of the number of factors for any number
 - N natural numbers using do-while
 - Reverse a number
-- Decimal to binary number conversion
+- Decimal to binary number conversion and vice versa
 - Sum of numbers entered in string (Leetcode 415 - Add strings)
