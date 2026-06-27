@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Enter the number to check for prime numbers: ";
+    cout << "Enter the number N to check for prime numbers upto N: ";
     cin >> n;
     vector<bool> isPrime(n + 1, true);
     isPrime[0] = false;

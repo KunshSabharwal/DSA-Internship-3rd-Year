@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Enter the number of lines to print the pattern: ";
+    cout << "Enter the number of lines to print the number pattern: ";
     cin >> n;
 
     for (int i = 1; i <= n; i++)
