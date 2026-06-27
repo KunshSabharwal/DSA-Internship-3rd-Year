@@ -28,3 +28,5 @@
 - #@ Pattern printing and 1, 121, 12321, 1234321 Pattern printing
 - Check prime numbers
 - Prime Numbers upto N using Sieve of Eratosthenes
+- Largest digit in a number
+- Count of the number of factors for any number
