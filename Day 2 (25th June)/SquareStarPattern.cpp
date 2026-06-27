@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "Enter the number to find count of odd and even numbers: ";
+    cout << "Enter the number to print the NXN grid of stars: ";
     cin >> a;
     int sum = 0;
     if (a <= 0)

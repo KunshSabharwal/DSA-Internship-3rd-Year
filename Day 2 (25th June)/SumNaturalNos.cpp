@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "Enter the number to find count of odd and even numbers: ";
+    cout << "Enter the number to find the sum of N natural numbers: ";
     cin >> a;
     int sum = 0;
     int flag = 0;
