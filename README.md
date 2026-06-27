@@ -30,3 +30,6 @@
 - Prime Numbers upto N using Sieve of Eratosthenes
 - Largest digit in a number
 - Count of the number of factors for any number
+- N natural numbers using do-while
+- Reverse a number
+- Decimal to binary number conversion
