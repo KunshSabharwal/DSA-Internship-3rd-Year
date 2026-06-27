@@ -33,3 +33,4 @@
 - N natural numbers using do-while
 - Reverse a number
 - Decimal to binary number conversion
+- Sum of numbers entered in string
