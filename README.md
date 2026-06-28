@@ -34,3 +34,8 @@
 - Reverse a number
 - Decimal to binary number conversion and vice versa
 - Sum of numbers entered in string (Leetcode 415 - Add strings)
+
+## Day 4 - 29th June 2026
+
+- Star Pattern
+- LCM, GCD and HCF
