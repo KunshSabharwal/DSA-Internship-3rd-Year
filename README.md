@@ -47,3 +47,7 @@
 - Leap year checker
 - Convert temperature from deg. celcius to deg. fahrenheit
 - Clock problem (Leetcode 1344 - Angle Between Hands of a Clock)
+
+## Day 5 - 30th June 2026
+
+-
