@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 // any variable outside main or any function body have global scope (known throughout the code)
 int function1(int a, int b, int c) // use the same name of the function for the function call in main
