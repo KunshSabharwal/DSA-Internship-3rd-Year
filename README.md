@@ -39,3 +39,6 @@
 
 - Star Pattern
 - LCM, GCD and HCF
+- Pointers
+- Functions
+  - Factorial Upto N numbers
