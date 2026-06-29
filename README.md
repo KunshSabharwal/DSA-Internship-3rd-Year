@@ -42,3 +42,5 @@
 - Pointers
 - Functions
   - Factorial Upto N numbers
+  - Max and Min of two numbers
+  - Roots of a quadratic equation
