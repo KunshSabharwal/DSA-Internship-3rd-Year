@@ -44,3 +44,6 @@
   - Factorial Upto N numbers
   - Max and Min of two numbers
   - Roots of a quadratic equation
+- Check if a year is a Leap year or not
+- Convert temperature from deg. celcius to deg. fahrenheit
+- Clock problem
