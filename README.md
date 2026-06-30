@@ -55,4 +55,15 @@
   - size, capacity, push_back, pop_back functions
   - Reverse a vector
 - Two Sum Leetcode - 1
+- Contains Duplicate Leetcode - 217
+- Valid Anagram Leetcode - 242
+- First Unique character in a string Leetcode - 387
+- Find the Difference Leetcode - 389
+- Isomorphic Strings Leetcode - 205
+- Find Common Characters Leetcode - 1002
+- Sort characters by frequency Leetcode - 451
+- Longest Consecutive Sequence Leetcode - 128
+- Rotate Array Leetcode - 189
+- Island Perimeter Leetcode - 463
 - Concatenation of Array Leetcode - 1929
+- Strings
