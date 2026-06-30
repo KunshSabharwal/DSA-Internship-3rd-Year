@@ -33,7 +33,7 @@
 - N natural numbers using do-while
 - Reverse a number
 - Decimal to binary number conversion and vice versa
-- Sum of numbers entered in string (Leetcode 415 - Add strings)
+- Sum of numbers entered in string (Add Strings Leetcode - 415)
 
 ## Day 4 - 29th June 2026
 
@@ -46,8 +46,13 @@
   - Roots of a quadratic equation
 - Leap year checker
 - Convert temperature from deg. celcius to deg. fahrenheit
-- Clock problem (Leetcode 1344 - Angle Between Hands of a Clock)
+- Clock problem (Angle Between Hands of a Clock Leetcode - 1344 )
 
 ## Day 5 - 30th June 2026
 
--
+- Vectors
+  - Scalar multiplication in vector
+  - size, capacity, push_back, pop_back functions
+  - Reverse a vector
+- Two Sum Leetcode - 1
+- Concatenation of Array Leetcode - 1929
