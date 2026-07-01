@@ -67,3 +67,8 @@
 - Island Perimeter Leetcode - 463
 - Concatenation of Array Leetcode - 1929
 - Strings
+
+## Day 6 - 1st July 2026
+
+- Kadane's algorithm for finding sum of maximum subarray
+- String functions
