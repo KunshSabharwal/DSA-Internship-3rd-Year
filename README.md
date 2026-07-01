@@ -72,4 +72,6 @@
 
 - Kadane's algorithm for finding sum of maximum subarray
 - String functions
-- Binary Search
+- Binary Search Leetcode - 704
+- Find First and Last Position of Element in Sorted Array Leetcode 34
+- Find peak element Leetcode - 162
