@@ -72,3 +72,4 @@
 
 - Kadane's algorithm for finding sum of maximum subarray
 - String functions
+- Binary Search
