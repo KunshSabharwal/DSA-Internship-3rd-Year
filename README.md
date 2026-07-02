@@ -75,3 +75,14 @@
 - Binary Search Leetcode - 704
 - Find First and Last Position of Element in Sorted Array Leetcode 34
 - Find peak element Leetcode - 162
+
+## Day 7 - 2nd July 2026
+
+- Power to two Leetcode - 231 (using binary search)
+- Two Sum II - Input array is sorted Leetcode - 167
+- Squares of a sorted array Leetcode - 977
+- Find minimum in rotated sorted array Leetcode - 153
+- Search in rotated sorted array Leetcode - 33
+- 3Sum Leetcode - 15
+- 4Sum Leetcode - 18
+- Number of subsequences that satisfy a given sum condition Leetcode - 1498
