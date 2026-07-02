@@ -86,3 +86,8 @@
 - 3Sum Leetcode - 15
 - 4Sum Leetcode - 18
 - Number of subsequences that satisfy a given sum condition Leetcode - 1498
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Count Sort
+- Sort Colors Leetcode - 75
