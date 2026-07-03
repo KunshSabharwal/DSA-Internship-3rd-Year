@@ -92,3 +92,7 @@
 - Count Sort
 - Sort Colors Leetcode - 75
 - First Bad Version Leetcode - 278
+
+## Day 8 - 3rd July 2026
+
+- Test 1
