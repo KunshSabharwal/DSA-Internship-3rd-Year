@@ -96,3 +96,5 @@
 ## Day 8 - 3rd July 2026
 
 - Test 1 (3Sum, Find sum of prime numbers upto N, Cinema Hall price after discount, 01 Value occurence XOR)
+- 2 pointers
+- Remove Duplicates from sorted array Leetcode - 26
