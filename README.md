@@ -107,3 +107,13 @@
 - Best time to buy and sell stock II Leetcode - 122
 - Prefix Sum
 - Time Complexity
+- Trapping Rain Water Leetcode - 42
+- Bi-Weekly Contest questions
+  - Unique middle element Leetcode - 3978
+  - Maximum valid pair sum Leetcode - 3979
+  - Minimum operations to transform binary string Leetcode - 3980
+  - Count distinct ways to form target from two strings Leetcode - 3981
+- Find Pivot Index Leetcode - 724
+- Find the middle index in array Leetcode - 1991
+- Left and right sum differences Leetcode - 2574
+- Product of array except self Leetcode - 238
