@@ -83,7 +83,6 @@
 - Squares of a sorted array Leetcode - 977
 - Find minimum in rotated sorted array Leetcode - 153
 - Search in rotated sorted array Leetcode - 33
-- 3Sum Leetcode - 15
 - 4Sum Leetcode - 18
 - Number of subsequences that satisfy a given sum condition Leetcode - 1498
 - Bubble Sort
@@ -100,3 +99,11 @@
 - Remove Duplicates from sorted array Leetcode - 26
 
 ## Day 9 - 6th July 2026
+
+- Move Zeroes Leetcode - 283
+- Container with most water Leetcode - 11
+- 3Sum Leetcode - 15
+- Best time to buy and sell stock I Leetcode - 121
+- Best time to buy and sell stock II Leetcode - 122
+- Prefix Sum
+- Time Complexity
