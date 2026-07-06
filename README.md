@@ -117,3 +117,4 @@
 - Find the middle index in array Leetcode - 1991
 - Left and right sum differences Leetcode - 2574
 - Product of array except self Leetcode - 238
+- Find the highest altitude Leetcode - 1732
