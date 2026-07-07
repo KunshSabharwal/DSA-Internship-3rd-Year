@@ -128,3 +128,7 @@
   - Divisible Game Leetcode - 3984
   - Palindromic Subarray Sum Leetcode - 3985
 - Climbing Stairs Leetcode - 70
+- Best time to buy and sell stock V Leetcode - 3573
+- Intersection of 2 arrays Leetcode - 349
+- Majority Element Leetcode - 169
+- Moore's Majority Voting algorithm
