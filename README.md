@@ -118,3 +118,13 @@
 - Left and right sum differences Leetcode - 2574
 - Product of array except self Leetcode - 238
 - Find the highest altitude Leetcode - 1732
+
+## Day 10 - 7th July 2026
+
+- Types of maps and sets and their functions
+- Weekly Contest questions
+  - Sum of Integers with Maximum Digit Range Leetcode - 3982
+  - Subsequence After One Replacement Leetcode - 3983
+  - Divisible Game Leetcode - 3984
+  - Palindromic Subarray Sum Leetcode - 3985
+- Climbing Stairs Leetcode - 70
