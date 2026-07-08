@@ -132,3 +132,17 @@
 - Intersection of 2 arrays Leetcode - 349
 - Majority Element Leetcode - 169
 - Moore's Majority Voting algorithm
+
+## Day 11 - 8th July 2026
+
+- Majority Element II Leetcode - 229
+- Most Frequent Even Element Leetcode - 2404
+- Find Resultant Array After Removing Anagrams Leetcode - 2273
+- Count distinct ways to form target from two strings Leetcode - 3981 (Using Recursion - gives TLE)
+- Binary Search Leetcode - 704 (using recursion)
+- Subsets Leetcode - 78 (using recursion)
+- Subsets II Leetcode - 90 (using recursion)
+- Generate Parentheses Leetcode - 22 (using recursion)
+- Sliding Window algorithm
+- Maximum Average Subarray I Leetcode - 643
+- Maximum Number of Vowels in a Substring of Given Length Leetcode - 1456
