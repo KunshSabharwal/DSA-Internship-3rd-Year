@@ -143,6 +143,6 @@
 - Subsets Leetcode - 78 (using recursion)
 - Subsets II Leetcode - 90 (using recursion)
 - Generate Parentheses Leetcode - 22 (using recursion)
-- Sliding Window algorithm
+- Sliding Window algorithm (fixed window)
 - Maximum Average Subarray I Leetcode - 643
 - Maximum Number of Vowels in a Substring of Given Length Leetcode - 1456
