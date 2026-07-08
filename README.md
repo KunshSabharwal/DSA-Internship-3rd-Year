@@ -146,3 +146,4 @@
 - Sliding Window algorithm (fixed window)
 - Maximum Average Subarray I Leetcode - 643
 - Maximum Number of Vowels in a Substring of Given Length Leetcode - 1456
+- Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold Leetcode - 1343
