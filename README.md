@@ -145,5 +145,14 @@
 - Generate Parentheses Leetcode - 22 (using recursion)
 - Sliding Window algorithm (fixed window)
 - Maximum Average Subarray I Leetcode - 643
-- Maximum Number of Vowels in a Substring of Given Length Leetcode - 1456
+- Maximum Number of Vowel in a Substring of Given Length Leetcode - 1456
 - Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold Leetcode - 1343
+
+## Day 12 - 9th July 2026
+
+- Permutation in String Leetcode - 567
+- Longest Substring Without Repeating Characters Leetcode - 3
+- Maximum Erasure Value Leetcode - 1695
+- Subarray Sums Divisible by K Leetcode - 974
+- Continuous Subarray Sum Leetcode - 523
+- Minimum Size Subarray Sum Leetcode - 209
