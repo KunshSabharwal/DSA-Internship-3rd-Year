@@ -11,7 +11,6 @@ int subarraySum(vector<int> &nums, int k)
     for (int num : nums)
     {
         prefixSum += num;
-
         if (mp.find(prefixSum - k) != mp.end())
         {
             count += mp[prefixSum - k];
