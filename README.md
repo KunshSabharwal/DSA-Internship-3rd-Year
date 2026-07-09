@@ -156,3 +156,8 @@
 - Subarray Sums Divisible by K Leetcode - 974
 - Continuous Subarray Sum Leetcode - 523
 - Minimum Size Subarray Sum Leetcode - 209
+- Subarray Sum equals K Leetcode - 560
+- Subarray Product Less Than K Leetcode - 713
+- Binary Subarrays with Sum Leetcode - 930
+- Number of Smooth Descent Periods of a Stock Leetcode - 2110
+- Count Subarrays With Score Less Than K Leetcode - 2302
