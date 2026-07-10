@@ -166,3 +166,5 @@
 
 - Test 2 (Packages moving (2 pointers), Relics Removal (Hash-Map), Mismatch in sorted and unsorted array indices)
 - Variable sliding window algorithm
+- Fruits into basket Leetcode - 904
+- Longest Substring with At Least K Repeating Characters Leetcode - 395
