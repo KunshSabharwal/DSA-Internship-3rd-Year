@@ -18,7 +18,6 @@ int main()
     {
         mp[relics[i]]++;
     }
-
     int remove = 0;
     for (auto it : mp)
     {

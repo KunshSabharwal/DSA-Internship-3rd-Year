@@ -165,4 +165,4 @@
 ## Day 13 - 10th July 2026
 
 - Test 2 (Packages moving (2 pointers), Relics Removal (Hash-Map), Mismatch in sorted and unsorted array indices)
--
+- Variable sliding window algorithm

@@ -19,9 +19,7 @@ int main()
     int left = 0;
     int right = n - 1;
     int trips = 0;
-
     sort(vec1.begin(), vec1.end());
-
     while (left <= right)
     {
         if (vec1[left] + vec1[right] <= max_weight)
