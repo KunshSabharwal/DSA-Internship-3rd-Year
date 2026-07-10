@@ -161,3 +161,8 @@
 - Binary Subarrays with Sum Leetcode - 930
 - Number of Smooth Descent Periods of a Stock Leetcode - 2110
 - Count Subarrays With Score Less Than K Leetcode - 2302
+
+## Day 13 - 10th July 2026
+
+- Test 2 (Packages moving (2 pointers), Relics Removal (Hash-Map), Mismatch in sorted and unsorted array indices)
+-
