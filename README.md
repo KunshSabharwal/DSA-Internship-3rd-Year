@@ -168,3 +168,5 @@
 - Variable sliding window algorithm
 - Fruits into basket Leetcode - 904
 - Longest Substring with At Least K Repeating Characters Leetcode - 395
+- Max Consecutive Ones III Leetcode - 1004
+- Count number of nice subarrays Leetcode - 1248
