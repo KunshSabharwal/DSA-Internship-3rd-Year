@@ -170,3 +170,11 @@
 - Longest Substring with At Least K Repeating Characters Leetcode - 395
 - Max Consecutive Ones III Leetcode - 1004
 - Count number of nice subarrays Leetcode - 1248
+
+## Day 14 - 13th July 2026
+
+- Contains Duplicate II Leetcode - 219
+- Find Longest Special Substring That Occurs Thrice I Leetcode - 2981
+- K-th Symbol in Grammar Leetcode - 779
+- Word Search Leetcode - 79
+- N-Queens Leetcode - 51
