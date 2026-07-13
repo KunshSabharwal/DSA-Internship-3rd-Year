@@ -179,3 +179,7 @@
 - Word Search Leetcode - 79
 - N-Queens Leetcode - 51
 - Weekly Contest -
+- Find Longest Special Substring That Occurs Thrice II Leetcode - 2982
+- Richest Customer Wealth Leetcode - 1672
+- Count Negative Numbers in a Sorted Matrix Leetcode - 1351
+-
