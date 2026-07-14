@@ -183,3 +183,24 @@
 - Richest Customer Wealth Leetcode - 1672
 - Count Negative Numbers in a Sorted Matrix Leetcode - 1351
 - Flipping an image Leetcode - 832
+
+## Day 15 - 14th July 2026
+
+- Check if Matrix Is X-Matrix Leetcode - 2319
+- Search a 2D Matrix Leetcode - 74
+- Search a 2D Matrix II Leetcode - 240
+- Number of Islands Leetcode - 200
+- Longest Valid Parentheses Leetcode - 32
+- Remove Invalid Parentheses Leetcode - 301
+- Rat in a maze - GeeksForGeeks Practice
+- Valid Sudoku Leetcode - 36
+- Sudoku Solver Leetcode - 37
+- Check if Every Row and Column Contains All Numbers Leetcode - 2133
+- Set Matrix Zeroes Leetcode - 73
+- Rotate Image Leetcode - 48
+- Determine Whether Matrix Can Be Obtained By Rotation Leetcode - 1886
+- Diagonal Traverse Leetcode - 498
+- Trie
+  - Implement Trie (Prefix Tree) Leetcode - 208
+  - Word Search II Leetcode - 212
+  - Count Prefix and Suffix Pairs II Leetcode - 3045
