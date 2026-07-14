@@ -200,6 +200,8 @@
 - Rotate Image Leetcode - 48
 - Determine Whether Matrix Can Be Obtained By Rotation Leetcode - 1886
 - Diagonal Traverse Leetcode - 498
+- Sequential Digits Leetcode - 1291
+- Lucky Numbers in a Matrix Leetcode - 1380
 - Trie
   - Implement Trie (Prefix Tree) Leetcode - 208
   - Word Search II Leetcode - 212
