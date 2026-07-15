@@ -206,3 +206,18 @@
   - Implement Trie (Prefix Tree) Leetcode - 208
   - Word Search II Leetcode - 212
   - Count Prefix and Suffix Pairs II Leetcode - 3045
+
+## Day 16 - 15th July 2026
+
+- Check if Every Row and Column Contains All Numbers Leetcode - 2133
+- Decode the Slanted Ciphertext Leetcode - 2075
+- Reshape the Matrix Leetcode - 566
+- Design Add and Search Words Data Structure Leetcode - 211
+- Prefix and Suffix Search Leetcode - 745
+- Recursion
+  - Recursive Tree
+  - Recursive leap of faith
+  - Fibonacci using recursion
+  - Natural numbers using recursion
+- Add one to a number without using + operator
+- N-th Tribonacci Number Leetcode - 1137
