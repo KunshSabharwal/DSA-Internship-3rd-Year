@@ -221,3 +221,6 @@
   - Natural numbers using recursion
 - Add one to a number without using + operator
 - N-th Tribonacci Number Leetcode - 1137
+- Power of Two Leetcode - 231 (using recursion)
+- Power of Three Leetcode - 326 (using recursion)
+- Pow(x, n) Leetcode - 50 (using recursion)
