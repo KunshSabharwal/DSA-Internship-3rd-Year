@@ -224,3 +224,14 @@
 - Power of Two Leetcode - 231 (using recursion)
 - Power of Three Leetcode - 326 (using recursion)
 - Pow(x, n) Leetcode - 50 (using recursion)
+
+## Day 17 - 16th July 2026
+
+- Reverse a string Leetcode - 344 (using recursion)
+- Subset Leetcode - 78 (using recursion)
+- Permutations Leetcode - 46 (using recursion)
+- Reverse words in a string Leetcode - 151
+- Pattern Matching Algorithms
+  - Rabin - Karp [Uses a rolling hash function to compute hash of pattern and string, wherever hash matches we check individual letters]
+  - Z - Algorithm [Find the Index of the First Occurrence in a String Leetcode - 28]
+  - KMP Algorithm [Find the Index of the First Occurrence in a String Leetcode - 28]
