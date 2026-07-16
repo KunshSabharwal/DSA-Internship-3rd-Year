@@ -231,6 +231,8 @@
 - Subset Leetcode - 78 (using recursion)
 - Permutations Leetcode - 46 (using recursion)
 - Reverse words in a string Leetcode - 151
+- Partition Equal Subset Sum Leetcode - 416 (using recursion and DP)
+- Wildcard Matching Leetcode - 44
 - Pattern Matching Algorithms
   - Rabin - Karp [Uses a rolling hash function to compute hash of pattern and string, wherever hash matches we check individual letters]
   - Z - Algorithm [Find the Index of the First Occurrence in a String Leetcode - 28]
