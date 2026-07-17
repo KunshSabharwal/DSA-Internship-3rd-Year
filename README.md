@@ -244,6 +244,7 @@
 - Number of Digit One Leetcode - 233 (using recursion)
 - Test 3 (Reverse a string with spaces, Sliding window MaxEnergyBars problem, Rotate a matrix by 90 degrees)
 - Count Good Numbers Leetcode - 1922
+- Different Ways to Add Parentheses Leetcode - 241
 - Classes and Objects in C++
   - A class is a user-defined data type that contains member variables (data) and member functions (methods)
   - Access specifiers determine the visibility of members:
