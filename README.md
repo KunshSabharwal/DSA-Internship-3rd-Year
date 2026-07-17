@@ -237,3 +237,107 @@
   - Rabin - Karp [Uses a rolling hash function to compute hash of pattern and string, wherever hash matches we check individual letters]
   - Z - Algorithm [Find the Index of the First Occurrence in a String Leetcode - 28]
   - KMP Algorithm [Find the Index of the First Occurrence in a String Leetcode - 28]
+
+## Day 18 - 17th July 2026
+
+- Power of Four Leetcode - 342 (using recursion)
+- Number of Digit One Leetcode - 233 (using recursion)
+- Test 3 (Reverse a string with spaces, Sliding window MaxEnergyBars problem, Rotate a matrix by 90 degrees)
+- Count Good Numbers Leetcode - 1922
+- Classes and Objects in C++
+  - A class is a user-defined data type that contains member variables (data) and member functions (methods)
+  - Access specifiers determine the visibility of members:
+    - public – Accessible from anywhere
+    - private – Accessible only within the class (default access specifier for a class)
+    - protected – Accessible within the class and by derived (child) classes
+  - Member Variables, which are also called data member, are variables declared inside a class. They can be of any data type, such as `string`, `int`, `double`, etc
+  - Constructors (Default and Parameterized)
+  - A constructor has the same name as the class and has no return type and it is also automatically called when an object is created
+    - Default Constructor
+      - A constructor with no parameters
+      - It initializes member variables to the values specified inside the constructor
+    - Parameterized Constructor
+      - A constructor that accepts one or more parameters to initialize member variables during object creation
+  - Object Creation
+    - Stack Memory
+
+      ```cpp
+      A obj1;
+      ```
+
+      - The object is created on the stack and the memory is automatically released when the object goes out of scope
+
+    - Heap Memory
+
+      ```cpp
+      A* obj2 = new A();
+      ```
+
+      - The object is created on the heap and the pointer (`obj2`) is stored on the stack, while the actual object resides on the heap
+      - Heap memory must be released manually using:
+        ```cpp
+        delete obj2;
+        ```
+      - In modern C++, stack allocation or smart pointers (`unique_ptr`, `shared_ptr`) are generally preferred over raw `new`
+
+  - Parameterized Constructor with `new`
+    - Creating an object using:
+      ```cpp
+      A* obj2 = new A(2);
+      ```
+      calls the parameterized constructor
+    - The constructor can be written as:
+      ```cpp
+      A(int a)
+      {
+          this->a = a;
+      }
+      ```
+    - `this` is a pointer to the current object, so member variables are accessed using the `->` operator (`this->a`)
+  - Dot (`.`) and Arrow (`->`) Operators:
+    - Use the dot (`.`) operator for normal (stack) objects:
+      ```cpp
+      obj1.print();
+      obj1.a = 10;
+      ```
+    - Use the **arrow (`->`)** operator for pointers to objects (heap objects):
+      ```cpp
+      obj2->print();
+      obj2->a = 20;
+      ```
+  - Destructors are a special member function that is automatically called when an object is destroyed which have the same name as the class, preceded by a tilde (`~`), and has no parameters or return type.
+
+    ```cpp
+    class A
+    {
+    public:
+        ~A()
+        {
+            cout << "Destructor called!" << endl;
+        }
+    };
+    ```
+
+    - For stack objects, the destructor is called automatically when the object goes out of scope
+    - For heap objects, the destructor is called only when `delete` is used
+
+    ```cpp
+    A obj1;              // Destructor called automatically at the end of scope.
+    A* obj2 = new A();   // Destructor not called until:
+    delete obj2;
+    ```
+
+    - Destructors are commonly used to release resources such as dynamically allocated memory, files, or network connections before an object is destroyed
+
+- OOP programming 4 pillars -
+  - Encapsulation – Bundles data and the methods that operate on it into a single class while restricting direct access to the data.
+  - Abstraction – Hides implementation details and exposes only the essential features through interfaces.
+  - Inheritance – Allows a class to inherit properties and methods from another class, enabling code reuse.
+  - Polymorphism – Allows the same function or operator to behave differently depending on the object or context. (Runtime and compile-time polymorphism)
+- Binary Search Tree insertion and deletion
+  - Creating a binary search tree
+  - Inserting nodes to a binary search tree
+  - Inorder traversal of binary search tree
+  - Insert into a Binary Search Tree Leetcode - 701
+  - Search in a Binary Search Tree Leetcode - 700
+  - Kth Smallest Element in a BST Leetcode - 230
