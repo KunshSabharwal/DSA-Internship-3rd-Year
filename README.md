@@ -343,3 +343,14 @@
   - Insert into a Binary Search Tree Leetcode - 701
   - Search in a Binary Search Tree Leetcode - 700
   - Kth Smallest Element in a BST Leetcode - 230
+
+## Day 19 - 20th July 2026
+
+- Valid Parentheses Leetcode - 20
+- Construct Binary Search Tree from Preorder Traversal Leetcode - 1008
+- Construct Binary Tree from Preorder and Inorder Traversal Leetcode - 105
+- Construct Binary Tree from Inorder and Postorder Traversal Leetcode - 106
+- Construct Binary Tree from Preorder and Postorder Traversal Leetcode - 889
+- Maximum Binary Tree Leetcode - 654
+- Convert Sorted Array to Binary Search Tree Leetcode - 108
+- Path Sum Leetcode - 112
