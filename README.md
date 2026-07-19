@@ -347,10 +347,11 @@
 ## Day 19 - 20th July 2026
 
 - Valid Parentheses Leetcode - 20
-- Construct Binary Search Tree from Preorder Traversal Leetcode - 1008
-- Construct Binary Tree from Preorder and Inorder Traversal Leetcode - 105
-- Construct Binary Tree from Inorder and Postorder Traversal Leetcode - 106
-- Construct Binary Tree from Preorder and Postorder Traversal Leetcode - 889
-- Maximum Binary Tree Leetcode - 654
-- Convert Sorted Array to Binary Search Tree Leetcode - 108
-- Path Sum Leetcode - 112
+- Homework for practice on trees -
+  - Construct Binary Search Tree from Preorder Traversal Leetcode - 1008
+  - Construct Binary Tree from Preorder and Inorder Traversal Leetcode - 105
+  - Construct Binary Tree from Inorder and Postorder Traversal Leetcode - 106
+  - Construct Binary Tree from Preorder and Postorder Traversal Leetcode - 889
+  - Maximum Binary Tree Leetcode - 654
+  - Convert Sorted Array to Binary Search Tree Leetcode - 108
+  - Path Sum Leetcode - 112
