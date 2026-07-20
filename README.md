@@ -347,6 +347,8 @@
 ## Day 19 - 20th July 2026
 
 - Valid Parentheses Leetcode - 20
+- Merge Sorted Array Leetcode - 88
+- Even Number of Knight Moves Leetcode - 3996
 - Homework for practice on trees -
   - Construct Binary Search Tree from Preorder Traversal Leetcode - 1008
   - Construct Binary Tree from Preorder and Inorder Traversal Leetcode - 105
@@ -355,3 +357,28 @@
   - Maximum Binary Tree Leetcode - 654
   - Convert Sorted Array to Binary Search Tree Leetcode - 108
   - Path Sum Leetcode - 112
+  - Count Dominant Nodes in a Binary Tree Leetcode - 3997
+  - Binary Tree Level Order Traversal Leetcode - 102
+  - Binary Tree Zigzag Level Order Traversal Leetcode - 103
+  - Binary Tree Right Side View Leetcode - 199
+  - Find Bottom Left Tree Value Leetcode - 513
+  - Vertical Order Traversal of a Binary Tree Leetcode - 987
+- Linked List
+  - Creation using classes and multiple functions to reverse, delete first node, delete last node
+  - Reverse Linked List Leetcode - 206
+  - Remove Duplicates from Sorted List Leetcode - 83
+  - Remove Linked List Elements Leetcode - 203
+  - Middle of Linked List Leetcode - 876
+  - Merge Two Sorted Lists Leetcode - 21
+  - Linked List cycle Leetcode - 141
+  - Palindrome Linked List Leetcode - 234
+  - Intersection of Two Linked Lists Leetcode - 160
+  - Delete Node in a Linked List Leetcode - 237
+  - Convert Binary number in a Linked List to Integer Leetcode - 1290
+  - Odd Even Linked List Leetcode - 328
+  - Remove Nth Node From End of List Leetcode - 19
+  - Add Two Numbers Leetcode - 2
+  - Delete the Middle Node of a Linked List Leetcode - 2095
+  - Split Linked List in Parts Leetcode - 725
+  - Rotate List Leetcode - 61
+  - insert front,end, delete front,end
