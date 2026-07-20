@@ -381,4 +381,8 @@
   - Delete the Middle Node of a Linked List Leetcode - 2095
   - Split Linked List in Parts Leetcode - 725
   - Rotate List Leetcode - 61
-  - insert front,end, delete front,end
+
+## Day 20 - 21st July 2026
+
+- Doubly Linked List
+  - Implementation of insertFront/End and deleteFront/End
