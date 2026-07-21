@@ -370,7 +370,7 @@
   - Remove Linked List Elements Leetcode - 203
   - Middle of Linked List Leetcode - 876
   - Merge Two Sorted Lists Leetcode - 21
-  - Linked List cycle Leetcode - 141
+  - Linked List Cycle Leetcode - 141
   - Palindrome Linked List Leetcode - 234
   - Intersection of Two Linked Lists Leetcode - 160
   - Delete Node in a Linked List Leetcode - 237
@@ -384,5 +384,9 @@
 
 ## Day 20 - 21st July 2026
 
+- Linked List Cycle II Leetcode - 142
+- Remove loop in Linked List - GFG Practice
 - Doubly Linked List
-  - Implementation of insertFront/End and deleteFront/End
+  - Implementation of insertFront, insertEnd, deleteFront, deleteEnd and changeNtoFront
+- LRU Cache Leetcode - 146
+- Find the Duplicate Number Leetcode - 287

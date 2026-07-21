@@ -17,7 +17,6 @@ public:
             next = NULL;
         }
     };
-
     Node *head = NULL;
 
     void insertFront(int val)
@@ -83,6 +82,32 @@ public:
         temp->prev->next = NULL;
     }
 
+    void changeNtoFront(int n)
+    {
+        if (head == NULL || n <= 1)
+            return;
+        Node *temp = head;
+        int cnt = 1;
+        while (temp != NULL && cnt < n)
+        {
+            temp = temp->next;
+            cnt++;
+        }
+        if (temp == NULL)
+        {
+            cout << "Invalid position!" << endl;
+            return;
+        }
+        if (temp->next != NULL)
+            temp->next->prev = temp->prev;
+        if (temp->prev != NULL)
+            temp->prev->next = temp->next;
+        temp->prev = NULL;
+        temp->next = head;
+        head->prev = temp;
+        head = temp;
+    }
+
     void printList()
     {
         Node *temp = head;
@@ -98,20 +123,30 @@ public:
 int main()
 {
     DoublyLinkedList *obj = new DoublyLinkedList();
+    cout << "Initially:" << endl;
+    obj->printList();
+    // Insert at end
     obj->insertEnd(10);
     obj->insertEnd(20);
     obj->insertEnd(30);
-    cout << "After inserting at end:" << endl;
+    cout << "\nAfter insertEnd(10), insertEnd(20), insertEnd(30):" << endl;
     obj->printList();
+    // Insert at front
     obj->insertFront(5);
     obj->insertFront(1);
-    cout << "After inserting at front:" << endl;
+    cout << "\nAfter insertFront(5), insertFront(1):" << endl;
     obj->printList();
+    // Delete front
     obj->deleteFront();
-    cout << "After deleting front:" << endl;
+    cout << "\nAfter deleteFront():" << endl;
     obj->printList();
+    // Delete end
     obj->deleteEnd();
-    cout << "After deleting end:" << endl;
+    cout << "\nAfter deleteEnd():" << endl;
+    obj->printList();
+    // Move 4th node to front
+    obj->changeNtoFront(4);
+    cout << "\nAfter changeNtoFront(4):" << endl;
     obj->printList();
 
     return 0;
