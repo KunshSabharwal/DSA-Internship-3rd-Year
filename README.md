@@ -395,3 +395,12 @@
 
 - Understanding LRU and Leetcode - 146 using DLL and its functions
 - LFU Cache Leetcode - 460
+- Detect loop in linked list - GFG Practice
+- Find length of loop - GFG Practice
+- First Node of Loop in Linked List - GFG Practice
+- Stacks and Queues
+  - Linked Lists are the best and most efficient way to implement a stack and all its operations, infact STL library uses Linked Lists for the inbuilt stack implementation
+  - Implementation of stack and basic functions like push, pop, top and empty using Linked Lists.
+  - Min Stack Leetcode - 155
+  - Sliding Window Maximum Leetcode - 239 Sliding Window Maximum
+  - Valid Parentheses Leetcode - 20(using stacks)
