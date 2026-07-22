@@ -385,7 +385,7 @@
 ## Day 20 - 21st July 2026
 
 - Linked List Cycle II Leetcode - 142
-- Remove loop in Linked List - GFG Practice
+- Remove Loop in Linked List - GFG Practice
 - Doubly Linked List
   - Implementation of insertFront, insertEnd, deleteFront, deleteEnd and changeNtoFront
 - LRU Cache Leetcode - 146

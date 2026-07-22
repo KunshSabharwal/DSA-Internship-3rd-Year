@@ -108,6 +108,42 @@ public:
         head = temp;
     }
 
+    void changeNtoEnd(int n)
+    {
+        if (head == NULL || head->next == NULL)
+            return;
+        Node *temp = head;
+        int cnt = 1;
+        while (temp != NULL && cnt < n)
+        {
+            temp = temp->next;
+            cnt++;
+        }
+        if (temp == NULL)
+        {
+            cout << "Invalid position!" << endl;
+            return;
+        }
+        if (temp->next == NULL)
+            return;
+        Node *last = head;
+        while (last->next != NULL)
+            last = last->next;
+        if (temp == head)
+        {
+            head = head->next;
+            head->prev = NULL;
+        }
+        else
+        {
+            temp->prev->next = temp->next;
+            temp->next->prev = temp->prev;
+        }
+        last->next = temp;
+        temp->prev = last;
+        temp->next = NULL;
+    }
+
     void printList()
     {
         Node *temp = head;
@@ -136,6 +172,14 @@ int main()
     obj->insertFront(1);
     cout << "\nAfter insertFront(5), insertFront(1):" << endl;
     obj->printList();
+    // Move 4th node to front
+    obj->changeNtoFront(4);
+    cout << "\nAfter changeNtoFront(4):" << endl;
+    obj->printList();
+    // Move 2nd node to end
+    obj->changeNtoEnd(2);
+    cout << "\nAfter changeNtoEnd(2):" << endl;
+    obj->printList();
     // Delete front
     obj->deleteFront();
     cout << "\nAfter deleteFront():" << endl;
@@ -143,10 +187,6 @@ int main()
     // Delete end
     obj->deleteEnd();
     cout << "\nAfter deleteEnd():" << endl;
-    obj->printList();
-    // Move 4th node to front
-    obj->changeNtoFront(4);
-    cout << "\nAfter changeNtoFront(4):" << endl;
     obj->printList();
 
     return 0;
