@@ -393,4 +393,5 @@
 
 ## Day 21 - 22nd July 2026
 
-- DLL
+- Understanding LRU and Leetcode - 146 using DLL and its functions
+- LFU Cache Leetcode - 460
