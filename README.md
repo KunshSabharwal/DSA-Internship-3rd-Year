@@ -404,3 +404,26 @@
   - Min Stack Leetcode - 155
   - Sliding Window Maximum Leetcode - 239 Sliding Window Maximum
   - Valid Parentheses Leetcode - 20(using stacks)
+
+## Day 22 - 23rd July 2026
+
+- Remove Outermost Parentheses Leetcode - 1021
+- Backspace String Compare Leetcode - 844
+- Minimum Add to Make Parentheses Valid Leetcode - 921
+- Minimum Remove to Make Valid Parentheses Leetcode - 1249
+- Next Greater Element I Leetcode - 496
+- Daily Temperatures Leetcode - 739
+- Next Greater Element II Leetcode - 503
+- Next Greater Element III Leetcode - 556
+- Sum of Subarray Ranges Leetcode - 2104
+- Remove Nodes From Linked List Leetcode - 2487
+- Smallest Missing Integer Greater Than Sequential Prefix Sum Leetcode - 2996
+- Online Stock Span Leetcode - 901
+- Largest Rectangle in Histogram Leetcode - 84
+- Maximal Rectangle Leetcode - 85
+- Sum of Subarray Minimums Leetcode - 907
+- Remove K Digits Leetcode - 402
+- 132 Pattern Leetcode - 456
+- Next Smaller Element - GFG Practice
+- Previous Greater Element - GFG Practice
+- Previous Smaller Element - GFG Practice
