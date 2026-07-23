@@ -429,3 +429,6 @@
 - Previous Greater Element - GFG Practice
 - Previous Smaller Element - GFG Practice
 - Sum of Total Strength of Wizards Leetcode - 2281
+- Maximum Score of a Good Subarray Leetcode - 1793
+- Next Greater Element IV Leetcode - 2454
+- Count Complete Subarrays in an Array Leetcode - 2799
