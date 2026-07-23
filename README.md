@@ -5,9 +5,9 @@
 ## Day 1 - 24th June 2026
 
 - For Loop Patterns
-- Add Digits (Leetcode - 258)
-- Fibonacci Sequence (Leetcode - 509)
-- Exponents - Power of Two (Leetcode - 231)
+- Add Digits Leetcode - 258
+- Fibonacci Sequence Leetcode - 509
+- Exponents - Power of Two Leetcode - 231
 
 ## Day 2 - 25th June 2026
 
@@ -18,10 +18,10 @@
 - Count number of even and odd numbers in a given number
 - Sum of N natural numbers using mathematical formula
 - Print a Square Star Pattern of NXN grid
-- Happy Number (Leetcode - 202)
-- Palindrome Number (Leetcode - 9)
-- Power of Three (Leetcode - 326)
-- Excel Sheet Column Number (Leetcode - 171)
+- Happy Number Leetcode - 202
+- Palindrome Number Leetcode - 9
+- Power of Three Leetcode - 326
+- Excel Sheet Column Number Leetcode - 171
 
 ## Day 3 - 27th June 2026
 
@@ -33,7 +33,7 @@
 - N natural numbers using do-while
 - Reverse a number
 - Decimal to binary number conversion and vice versa
-- Sum of numbers entered in string (Add Strings Leetcode - 415)
+- Sum of numbers entered in string - Add Strings Leetcode - 415
 
 ## Day 4 - 29th June 2026
 
@@ -46,7 +46,7 @@
   - Roots of a quadratic equation
 - Leap year checker
 - Convert temperature from deg. celcius to deg. fahrenheit
-- Clock problem (Angle Between Hands of a Clock Leetcode - 1344 )
+- Clock problem / Angle Between Hands of a Clock Leetcode - 1344
 
 ## Day 5 - 30th June 2026
 
@@ -381,6 +381,7 @@
   - Delete the Middle Node of a Linked List Leetcode - 2095
   - Split Linked List in Parts Leetcode - 725
   - Rotate List Leetcode - 61
+  - Reverse Linked List II Leetcode - 92
 
 ## Day 20 - 21st July 2026
 
@@ -427,3 +428,4 @@
 - Next Smaller Element - GFG Practice
 - Previous Greater Element - GFG Practice
 - Previous Smaller Element - GFG Practice
+- Sum of Total Strength of Wizards Leetcode - 2281
