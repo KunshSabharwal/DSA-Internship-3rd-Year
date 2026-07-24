@@ -400,7 +400,6 @@
 - Find length of loop - GFG Practice
 - First Node of Loop in Linked List - GFG Practice
 - Stacks and Queues
-  - Linked Lists are the best and most efficient way to implement a stack and all its operations, infact STL library uses Linked Lists for the inbuilt stack implementation
   - Implementation of stack and basic functions like push, pop, top and empty using Linked Lists.
   - Min Stack Leetcode - 155
   - Sliding Window Maximum Leetcode - 239 Sliding Window Maximum
@@ -432,3 +431,18 @@
 - Maximum Score of a Good Subarray Leetcode - 1793
 - Next Greater Element IV Leetcode - 2454
 - Count Complete Subarrays in an Array Leetcode - 2799
+
+## Day 23 - 24th July 2026
+
+- Test 4(Length of Loop in Linked List, Convert binary values to Decimal base 10 in Linked List, Linked List values from middle to last node)
+- Next Smaller Element in array
+- Previous Smaller Element in array
+- Queues
+  - Linked Lists used to implement Queue and its basic functions like enqueue, dequeue, front, end, size and empty.
+  - Deque allows O(1) insertion/deletion at both ends and also supports direct indexing (dq[i]) in O(1) with various functions like push, pop, front, end and size etc.
+  - Implement Stack using Queues Leetcode - 225
+  - Implement Queue using Stacks Leetcode - 232
+  - Queue Reconstruction by Height Leetcode - 406
+  - Design Circular Queue Leetcode - 622
+  - Orderly Queue Leetcode - 899
+- Bit Manipulation
