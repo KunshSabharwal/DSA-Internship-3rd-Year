@@ -450,30 +450,31 @@
 ## Day 24 - 27th July 2026
 
 - Trees
+  - Binary Tree: A hierarchical data structure in which each node can have at most two children, called the left child and right child.
   - Full vs Complete Binary Tree
     | Full Binary Tree | Complete Binary Tree |
     | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
-    | Every node has either **0 or 2 children** | All levels are completely filled except possibly the last, which is filled **left to right** |
-    | Focuses on the **number of children** | Focuses on the **shape of the tree** |
+    | Every node has either 0 or 2 children | All levels are completely filled except possibly the last, which is filled left to right |
+    | Focuses on the number of children | Focuses on the shape of the tree |
   - Traversals of a Binary Tree -> Traversal = Visiting every node exactly once
     | Traversal | Order | Common Use |
     | ------------- | ------------------- | --------------------------- |
-    | **Preorder** | Root → Left → Right | Copy/Serialize tree |
-    | **Inorder** | Left → Root → Right | Gives sorted order in a BST |
-    | **Postorder** | Left → Right → Root | Delete/free a tree |
+    | Preorder | Root → Left → Right | Copy/Serialize tree |
+    | Inorder | Left → Root → Right | Gives sorted order in a BST |
+    | Postorder | Left → Right → Root | Delete/free a tree |
   - Height vs Depth of a Binary Tree =>
-    - **Depth of a node:** Number of **edges from the root** to that node
-    - **Height of a node:** Number of **edges on the longest path** from that node to a leaf
-    - **Height of a tree:** Height of the root
+    - Depth of a node: Number of edges from the root to that node
+    - Height of a node: Number of edges on the longest path from that node to a leaf
+    - Height of a tree: Height of the root
   - Levels of a Binary Tree
-    - **Level 0** → Root node
-    - **Level 1** → Children of root
-    - **Level 2** → Grandchildren
+    - Level 0 → Root node
+    - Level 1 → Children of root
+    - Level 2 → Grandchildren
     - and so on...
   - Left & Right Skewed Binary Trees => A skewed tree behaves like a linked list
     - Left Skewed Tree
-      - Every node has only a **left child**
+      - Every node has only a left child
       - Height is maximum (`n - 1` for `n` nodes)
     - Right Skewed Tree
-      - Every node has only a **right child**
+      - Every node has only a right child
       - Height is also maximum (`n - 1`)
