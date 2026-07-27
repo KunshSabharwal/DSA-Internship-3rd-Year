@@ -445,6 +445,7 @@
   - Queue Reconstruction by Height Leetcode - 406
   - Design Circular Queue Leetcode - 622
   - Orderly Queue Leetcode - 899
+- Longest Common Subsequence Leetcode - 1143
 - Bit Manipulation
 
 ## Day 24 - 27th July 2026
@@ -498,3 +499,7 @@
   - Count Complete Tree Nodes Leetcode - 222
   - Binary Tree Tilt Leetcode - 563
   - Closest Nodes Queries in a Binary Search Tree Leetcode - 2476
+
+## Day 25 - 28th July 2026
+
+-
