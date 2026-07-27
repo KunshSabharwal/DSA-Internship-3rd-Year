@@ -478,3 +478,23 @@
     - Right Skewed Tree
       - Every node has only a right child
       - Height is also maximum (`n - 1`)
+  - Binary Tree Inorder Traversal Leetcode - 94
+  - Binary Tree Postorder Traversal Leetcode - 145
+  - Binary Tree Preorder Traversal Leetcode - 144
+  - Maximum Depth of Binary Tree Leetcode - 104
+  - Same Tree Leetcode - 100
+  - Symmetric Tree Leetcode - 101
+  - Invert Binary Tree Leetcode - 226
+  - Balanced Binary Tree Leetcode - 110
+  - Minimum Depth of Binary Tree Leetcode - 111
+  - Leaf-Similar Trees Leetcode - 872
+  - Merge Two Binary Trees Leetcode - 617
+  - Univalued Binary Tree Leetcode - 965
+  - Sum of Left Leaves Leetcode - 404
+  - Range Sum of BST Leetcode - 938
+  - Validate Binary Search Tree Leetcode - 98
+  - Increasing Order Search Tree Leetcode - 897
+  - Evaluate Boolean Binary Tree Leetcode - 2331
+  - Count Complete Tree Nodes Leetcode - 222
+  - Binary Tree Tilt Leetcode - 563
+  - Closest Nodes Queries in a Binary Search Tree Leetcode - 2476
