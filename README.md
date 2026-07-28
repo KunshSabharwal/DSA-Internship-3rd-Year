@@ -499,7 +499,23 @@
   - Count Complete Tree Nodes Leetcode - 222
   - Binary Tree Tilt Leetcode - 563
   - Closest Nodes Queries in a Binary Search Tree Leetcode - 2476
+  - Binary Tree Level Order Traversal II Leetcode - 107
+  - Find Largest Value in Each Tree Row Leetcode - 515
+  - Average of Levels in Binary Tree Leetcode - 637
+  - Maximum Level Sum of a Binary Tree Leetcode - 1161
 
 ## Day 25 - 28th July 2026
 
--
+- Viva
+- Super Egg Drop Leetcode - 887
+- Find Subarrays With Equal Sum Leetcode - 2395
+- Split With Minimum Sum Leetcode - 2578
+- Partition to K Equal Sum Subsets Leetcode - 698
+- Minimize the Difference Between Target and Chosen Elements Leetcode - 1981
+- Maximum Number of Ways to Partition an Array Leetcode - 2025
+- Partition Array Into Two Arrays to Minimize Sum Difference Leetcode - 2035
+- Number of Great Partitions Leetcode - 2518
+- Target Sum Leetcode - 494
+- Count Subsets with Sum - GFG Practice
+- Coin Change Leetcode - 322
+- Coin Change II Leetcode - 518
