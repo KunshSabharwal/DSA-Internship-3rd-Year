@@ -503,10 +503,11 @@
   - Find Largest Value in Each Tree Row Leetcode - 515
   - Average of Levels in Binary Tree Leetcode - 637
   - Maximum Level Sum of a Binary Tree Leetcode - 1161
+  - Deepest Leaves Sum Leetcode - 1302
 
 ## Day 25 - 28th July 2026
 
-- Viva
+- Viva (NGE in stack, Reverse a SLL, Time complexities of both codes and edge cases theory questions)
 - Super Egg Drop Leetcode - 887
 - Find Subarrays With Equal Sum Leetcode - 2395
 - Split With Minimum Sum Leetcode - 2578
@@ -519,3 +520,12 @@
 - Count Subsets with Sum - GFG Practice
 - Coin Change Leetcode - 322
 - Coin Change II Leetcode - 518
+- Minimum Cost For Tickets Leetcode - 983
+- Maximum Value of K Coins From Piles Leetcode - 2218
+- Minimum Number of Operations to Convert Time Leetcode - 2224
+- Minimum Cost to Split an Array Leetcode - 2547
+- Count of Sub-Multisets With Bounded Sum Leetcode - 2902
+- Length of the Longest Subsequence That Sums to Target Leetcode - 2915
+- Minimum Number of Coins to be Added Leetcode - 2952
+- Inverse Coin Change Leetcode - 3592
+-
