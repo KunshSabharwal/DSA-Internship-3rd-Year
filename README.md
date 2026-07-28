@@ -504,6 +504,7 @@
   - Average of Levels in Binary Tree Leetcode - 637
   - Maximum Level Sum of a Binary Tree Leetcode - 1161
   - Deepest Leaves Sum Leetcode - 1302
+  - Cousins in Binary Tree Leetcode - 993
 
 ## Day 25 - 28th July 2026
 
@@ -528,4 +529,5 @@
 - Length of the Longest Subsequence That Sums to Target Leetcode - 2915
 - Minimum Number of Coins to be Added Leetcode - 2952
 - Inverse Coin Change Leetcode - 3592
--
+- Minimum Cost to Cut a Stick Leetcode - 1547
+- Rod Cutting - GFG Practice
