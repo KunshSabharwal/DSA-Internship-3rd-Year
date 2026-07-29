@@ -505,6 +505,8 @@
   - Maximum Level Sum of a Binary Tree Leetcode - 1161
   - Deepest Leaves Sum Leetcode - 1302
   - Cousins in Binary Tree Leetcode - 993
+  - Reverse Odd Levels of Binary Tree Leetcode - 2415
+  - Cousins in Binary Tree II Leetcode - 2641
 
 ## Day 25 - 28th July 2026
 
@@ -531,3 +533,13 @@
 - Inverse Coin Change Leetcode - 3592
 - Minimum Cost to Cut a Stick Leetcode - 1547
 - Rod Cutting - GFG Practice
+
+## Day 26 - 29th July 2026
+
+- Longest Increasing Subsequence Leetcode - 300
+- Delete Operation for Two Strings Leetcode - 583
+- Wildcard Matching Leetcode - 44 (using DP - Memoization)
+- Longest Common Subsequence - GFG Practice
+- All LCS - GFG Practice
+- Shortest Common Supersequence Leetcode - 1092
+- Diameter of Binary Tree Leetcode - 543
