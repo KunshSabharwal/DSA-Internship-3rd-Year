@@ -361,6 +361,10 @@
   - Binary Tree Level Order Traversal Leetcode - 102
   - Binary Tree Zigzag Level Order Traversal Leetcode - 103
   - Binary Tree Right Side View Leetcode - 199
+  - Right View of Binary Tree - GFG Practice
+  - Left View of Binary Tree - GFG Practice
+  - Top View of Binary Tree - GFG Practice
+  - Bottom View of Binary Tree - GFG Practice
   - Find Bottom Left Tree Value Leetcode - 513
   - Vertical Order Traversal of a Binary Tree Leetcode - 987
 - Linked List
@@ -543,3 +547,6 @@
 - All LCS - GFG Practice
 - Shortest Common Supersequence Leetcode - 1092
 - Diameter of Binary Tree Leetcode - 543
+- Path Sum II Leetcode - 113
+- Word Break Leetcode - 139
+- Word Break II Leetcode - 140
