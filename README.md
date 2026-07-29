@@ -550,3 +550,10 @@
 - Path Sum II Leetcode - 113
 - Word Break Leetcode - 139
 - Word Break II Leetcode - 140
+
+## Day 27 - 30th July 2026
+
+- Binary Tree Maximum Path Sum Leetcode - 124
+- Path Sum III Leetcode - 437
+- N-ary Tree Level Order Traversal Leetcode - 429
+- Add One Row to Tree Leetcode - 623
