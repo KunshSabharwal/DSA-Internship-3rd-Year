@@ -569,6 +569,7 @@
 - Minimum Distance Between BST Nodes Leetcode - 783
 - Number of Ways to Reach a Position After Exactly k Steps Leetcode - 2400
 - Paths in Matrix Whose Sum Is Divisible by K Leetcode - 2435
+- Matrix Chain Multiplication - GFG Practice
 - Macros are created using the `#define` preprocessor directive and they perform text replacement before compilation and are mostly used to reduce repetitive code and improve readability.
 - ```cpp
   #define ll long long
