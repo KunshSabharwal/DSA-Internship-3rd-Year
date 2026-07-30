@@ -557,3 +557,20 @@
 - Path Sum III Leetcode - 437
 - N-ary Tree Level Order Traversal Leetcode - 429
 - Add One Row to Tree Leetcode - 623
+- Longest Univalue Path Leetcode - 687
+- Unique Paths Leetcode - 62
+- Unique Paths Leetcode - 63
+- Minimum Path Sum Leetcode - 64
+- Minimum Path Cost in a Grid Leetcode - 2304
+- Minimum Cost Homecoming of a Robot in a Grid - 2087
+- Dungeon Game Leetcode - 174
+- Minimum Absolute Difference in BST Leetcode - 530
+- Unique Binary Search Trees Leetcode - 96
+- Minimum Distance Between BST Nodes Leetcode - 783
+- Number of Ways to Reach a Position After Exactly k Steps Leetcode - 2400
+- Macros are created using the `#define` preprocessor directive and they perform text replacement before compilation and are mostly used to reduce repetitive code and improve readability.
+- ```cpp
+  #define ll long long
+  #define PI 3.141592653589793
+  #define vi vector<int>
+  ```
