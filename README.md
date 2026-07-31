@@ -584,4 +584,5 @@
   - Time Needed to Buy Tickets Leetcode - 2073
   - Trapping Rain Water Leetcode - 42
 - Unique Binary Search Trees II Leetcode - 95
+- AVL Tree Implementation
 - Speaker Session
