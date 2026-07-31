@@ -580,4 +580,8 @@
 ## Day 28 - 31st July 2026
 
 - Coding Contest/Hackathon
+  - Convert cipher text string back to original message where each character is shifter forward by one position, so shift back by one to get answer. Numbers, spaces and special characters remain the same
+  - Time Needed to Buy Tickets Leetcode - 2073
+  - Trapping Rain Water Leetcode - 42
+- Unique Binary Search Trees II Leetcode - 95
 - Speaker Session
