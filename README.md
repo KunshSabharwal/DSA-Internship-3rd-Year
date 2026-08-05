@@ -588,3 +588,7 @@
 - DP and its main types
 - Doubts and revision
 - Practice questions
+
+## Day 29 - 5th August 2026 (Online Class)
+
+- Revision of previous classes
