@@ -592,3 +592,7 @@
 ## Day 29 - 5th August 2026 (Online Class)
 
 - Revision of previous class topics
+
+## Day 30 - 6th August 2026 (Online Class)
+
+- AVL Tree and its properties
