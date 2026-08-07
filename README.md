@@ -596,3 +596,8 @@
 ## Day 30 - 6th August 2026 (Online Class)
 
 - AVL Tree and its properties
+- Rotations in AVL Tree
+  - LL Rotation
+  - RR Rotation
+  - LR Rotation
+  - RL Rotation
