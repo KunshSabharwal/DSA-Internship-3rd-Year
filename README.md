@@ -605,4 +605,4 @@
 ## Day 31 - 7th August 2026 (Online Class)
 
 - Implementation of AVL Trees and rotation
-- Revision of previous topics from classes
+- Revision of some previous topics from classes
