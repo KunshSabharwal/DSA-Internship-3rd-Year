@@ -606,3 +606,4 @@
 
 - Implementation of AVL Trees and rotation
 - Revision of some previous topics from classes
+- Notes on graphs
