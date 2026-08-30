@@ -606,4 +606,4 @@
 
 - Implementation of AVL Trees and rotation
 - Revision of some previous topics from classes
-- Handwritten Notes by sir on graphs theory and graph codes with implementation
+- Handwritten Notes by sir on graphs theory and graph codes with implementations
